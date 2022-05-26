@@ -1,1 +1,1 @@
-# Stack-and-Queue-implementation-in-LinkedList
+# Stack-and-Queue-implementation
